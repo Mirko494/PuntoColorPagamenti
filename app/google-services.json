@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413960789397",
+    "firebase_url": "https://punto-color-pagamenti.firebaseio.com",
+    "project_id": "punto-color-pagamenti",
+    "storage_bucket": "punto-color-pagamenti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413960789397:android:5749a74d11674ee1596a9c",
+        "android_client_info": {
+          "package_name": "com.softworks.moldaunia.puntocolorpagamenti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413960789397-9jqphc94qo6bll96m5rda86e4idtbbc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softworks.moldaunia.puntocolorpagamenti",
+            "certificate_hash": "64c90de848a605701df01dff8b4d172c134d71cb"
+          }
+        },
+        {
+          "client_id": "413960789397-c3ieiqv73h26oqh1jennv70u9t2t02q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb9i-aJ63pPzuraGpIUjWr0nK0yqztrYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413960789397-c3ieiqv73h26oqh1jennv70u9t2t02q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

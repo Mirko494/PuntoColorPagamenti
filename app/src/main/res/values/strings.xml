@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Punto Color Pagamenti</string>
+    <string name="mod_pagamento">Modifica Pagamento</string>
+    <string name="ins_pagamento">Inserimento Pagamento</string>
+    <string name="ente">Azienda:</string>
+    <string name="importo">Importo:</string>
+    <string name="modalita">Modalità\nPagamento:</string>
+    <string name="data">Data:</string>
+    <string name="lista_vuota">Non ci sono pagamenti nel mese corrente</string>
+</resources>
